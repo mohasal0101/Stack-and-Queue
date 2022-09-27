@@ -1,0 +1,25 @@
+{
+    "name": "stack-and-queue",
+    "version": "1.0.0",
+    "description": "",
+    "main": "stack.js",
+    "scripts": {
+      "test": "jest --coverage --verbose"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mohasal0101/Stack-and-Queue.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/mohasal0101/Stack-and-Queue/issues"
+    },
+    "homepage": "https://github.com/mohasal0101/Stack-and-Queue#readme",
+    "dependencies": {
+      "jest": "^29.0.3",
+      "node": "^18.9.1",
+      "supertest": "^6.2.4"
+    }
+  }
